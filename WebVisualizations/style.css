@@ -15,7 +15,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .nav-link{
-    color: black;
+    color: rgb(100, 98, 98);
 }
 .navbar{
     background-color: white; 
@@ -25,13 +25,13 @@ body{
     background-color:#E7E7E7!important; 
 }
 .dropdown-item{
-    color:black !important; 
+    color: rgb(100, 98, 98) !important; 
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
     background-color:#E7E7E7 !important; 
 }
 a{
-    color: black;
+    color: rgb(58, 56, 56);
     font-size: 18px; 
 }
 .nav-link:hover{
@@ -65,12 +65,12 @@ img{
 }
 /* Paragraph Element */
 p{
- color: black;
+ color: rgb(58, 56, 56);
  font-family: Georgia, 'Times New Roman', Times, serif;
  font-size: 16px; 
 }
 ul{
-    color: black;
+    color: rgb(58, 56, 56);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;    
 }
